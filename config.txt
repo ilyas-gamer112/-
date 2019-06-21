@@ -1,5 +1,5 @@
 owner=431911283726614538
-prefix=!p
+prefix=/p
 game= music-test
 stayinchannel=true
 songinstatus=false
